@@ -1,5 +1,15 @@
-{% if noteProps and noteProps.banner %}
-<div class="dg-banner">
-  <img src="{{ noteProps.banner }}">
-</div>
+{% if noteProps %}
+<pre>
+banner: {{ noteProps.banner }}
+
+header: {{ noteProps.banner_header }}
+
+v: {{ noteProps.banner_header_v }}
+
+h: {{ noteProps.banner_header_h }}
+
+decor: {{ noteProps.banner_header_decor }}
+
+size: {{ noteProps.banner_header_title_size }}
+</pre>
 {% endif %}
