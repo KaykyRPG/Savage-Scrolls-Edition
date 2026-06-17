@@ -1,10 +1,102 @@
 .dg-banner {
-    margin-bottom: 1rem;
+    position: relative;
+    width: 100%;
+    height: var(--banner-height);
+    overflow: hidden;
+    border-radius: 12px;
+    margin-bottom: calc(1rem + var(--banner-content-margin));
 }
 
-.dg-banner img {
+.dg-banner-image {
     width: 100%;
-    height: 250px;
+    height: 100%;
     object-fit: cover;
-    border-radius: 12px;
+    object-position: center var(--banner-y);
+    display: block;
+}
+
+/* Overlay */
+
+.dg-banner-overlay {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    gap: 0.4rem;
+
+    padding: 16px 24px;
+
+    color: white;
+}
+
+/* Horizontal */
+
+.h-left {
+    justify-content: flex-start;
+}
+
+.h-center {
+    justify-content: center;
+}
+
+.h-right {
+    justify-content: flex-end;
+}
+
+/* Vertical */
+
+.v-top {
+    align-items: flex-start;
+}
+
+.v-center {
+    align-items: center;
+}
+
+.v-bottom,
+.v-edge {
+    align-items: flex-end;
+}
+
+/* Título */
+
+.dg-banner-title {
+    font-size: var(--banner-title-size);
+    font-weight: 700;
+    line-height: 1;
+}
+
+/* Ícone */
+
+.dg-banner-icon {
+    font-size: var(--banner-icon-size);
+    line-height: 1;
+}
+
+/* Decorações */
+
+.decor-shadow .dg-banner-title,
+.decor-shadow .dg-banner-icon {
+    text-shadow:
+        0 0 6px rgba(0,0,0,.9),
+        0 0 12px rgba(0,0,0,.9),
+        0 0 24px rgba(0,0,0,.9);
+}
+
+.decor-border .dg-banner-title,
+.decor-border .dg-banner-icon {
+    -webkit-text-stroke: 1px black;
+}
+
+.decor-none .dg-banner-title,
+.decor-none .dg-banner-icon {
+    text-shadow: none;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+    .dg-banner {
+        height: var(--banner-mobile-height);
+    }
 }
