@@ -1,0 +1,10 @@
+.dg-banner {
+    margin-bottom: 1rem;
+}
+
+.dg-banner img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+}
