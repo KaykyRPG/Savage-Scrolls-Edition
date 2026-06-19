@@ -1,0 +1,45 @@
+{% if noteProps and noteProps.banner %}
+<div
+  class="dg-banner-wrapper"
+  style="
+    --banner-content-margin: {{ noteProps.banner_content_margin or '0px' }};
+    --banner-title-size: {{ noteProps.banner_header_title_size or '35px' }};
+    --banner-icon-size: {{ noteProps.banner_header_icon_size or '1.2em' }};
+  "
+>
+  <div
+    class="dg-banner style-{{ noteProps.banner_style or 'solid' }}"
+    style="
+      --banner-height: {{ noteProps.banner_height or '250px' }};
+      --banner-mobile-height: {{ noteProps.banner_mobile_height or noteProps.banner_height or '250px' }};
+      --banner-y: {{ noteProps.banner_y or '50%' }};
+    "
+  >
+    <img
+      src="{{ noteProps.banner }}"
+      alt="Banner"
+      class="dg-banner-image"
+    >
+  </div>
+
+  {% if noteProps.banner_header or noteProps.banner_icon %}
+  <div
+    class="dg-banner-overlay
+      h-{{ noteProps.banner_header_h or 'center' }}
+      v-{{ noteProps.banner_header_v or 'edge' }}
+      decor-{{ noteProps.banner_header_decor or 'none' }}"
+  >
+    {% if noteProps.banner_icon %}
+      <span class="dg-banner-icon">
+        {{ noteProps.banner_icon }}
+      </span>
+    {% endif %}
+    {% if noteProps.banner_header %}
+      <span class="dg-banner-title">
+        {{ noteProps.banner_header }}
+      </span>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
