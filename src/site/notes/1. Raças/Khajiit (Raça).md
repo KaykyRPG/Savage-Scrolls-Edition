@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/khajiit-raca/","tags":["raça"],"dg-note-properties":{"tags":"raça","banner":"https://cdn.discordapp.com/attachments/1516648755770818681/1516648841368309821/image.png?ex=6a3368cd&is=6a32174d&hm=020a09d887b01f451691a9fe7fd99617a2e5b57fef42953e58f744356177e6e3","banner_style":"swoosh","banner_height":"250px","banner_y":"9.2%","banner_header":"Khajiit","banner_header_v":"center","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"80px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/khajiit-raca/","tags":["raça"],"dg-note-properties":{"tags":"raça","banner":"https://cdn.discordapp.com/attachments/1516648755770818681/1516648841368309821/image.png?ex=6a36b48d&is=6a35630d&hm=8b56f41850c4b1c6a4dd26e6ee4ae25882d0166dff50c683cf1a360d0ff3536d","banner_style":"swoosh","banner_height":"250px","banner_y":"10.0%","banner_header":"Khajiit","banner_header_v":"center","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"80px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
 >Os Khajiit são uma das dez raças jogáveis padrão em _The Elder Scrolls_. Eles são uma das raças ferais que habitam o continente de Tamriel, principalmente sua província natal de Elsweyr. Eles são conhecidos por sua agilidade natural, furtividade (_stealth_) e por sua produção de açúcar lunar (_moon sugar_), que pode ser refinado em skooma. Os Khajiit diferem dos humanos e elfos não apenas em sua forma esquelética e nos pelos que cobrem seus corpos, mas também em seu metabolismo e digestão. A expectativa de vida dos Khajiit é semelhante à dos humanos. Eles viajam por aí vendendo suas mercadorias, mas geralmente não possuem a confiança dos outros, devido ao preconceito racial de muitas das raças de Tamriel, resultando possivelmente da crença de que a maioria dos Khajiit são ladrões. Eles costumam falar sobre si mesmos na terceira pessoa, como ocorre com J'zargo e Akkhuz-ri.
@@ -13,73 +13,30 @@
 - **Visão Noturna**: Ver no escuro durante 60 segundos, um número ilimitado de vezes por dia.
 - **Garras**: Khajiit possuem garras que causam For+d4 de Dano, sendo considerado [[7. Regras Gerais/SWADE - REGRAS/3. Regras/Armas Naturais\|Armas Naturais]].
 ### Complicações:
-- **[[3. Vantagens e Complicações/Tabela de Complicações#Khajiit (Raça) Khajiit\|Filhos das Luas (Menor)]]**: Quando confrontado com presságios, tradições lunares ou crenças culturais khajiitas, deve agir de acordo com elas ou gastar um Bennie para resistir.
-- **[[3. Vantagens e Complicações/Tabela de Complicações#Khajiit (Raça) Khajiit\|Forasteiro em Tamriel (Menor)]]**: Em muitas regiões de Tamriel, especialmente Skyrim, Khajiit são vistos com desconfiança e frequentemente sofrem discriminação.
+- **Filhos das Luas (Menor)**: Quando confrontado com presságios, tradições lunares ou crenças culturais khajiitas, deve agir de acordo com elas ou gastar um Bennie para resistir.
+- **Forasteiro em Tamriel (Menor)**: Em muitas regiões de Tamriel, especialmente Skyrim, Khajiit são vistos com desconfiança e frequentemente sofrem discriminação.
 
-> Mais vantagens ou complicações dos Khajiit em: [[3. Vantagens e Complicações/Tabela de Vantagens#Khajiit\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Tabela de Complicações#Khajiit (Raça) Khajiit\|Complicações Raciais]].
+> Mais vantagens ou complicações dos Khajiit em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Khajiit\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Khajiit (Raça) Khajiit\|Complicações Raciais]].
 
 
-# Sociedade & Cultura
+# Informações
 
-> [!quote] ― Sociedade Geográfica Imperial
-> "Os Khajiit são comumente considerados um dos povos ferais, um dos poucos sobreviventes dos habitantes originais de Tamriel antes da chegada dos mer e dos homens, e Elsweyr é o seu lar."
+> [!quote] — Livro: Palavras de Mãe Clã Ahnissi
+> "E Fadomai deu à luz a última ninhada, os Khajiit, feitos para serem os melhores escaladores, os melhores caçadores... destinados a andar nas sombras e a guardar os segredos das luas."
 
-Os Khajiit, junto com os argonianos, habitavam Tamriel muito antes da chegada dos elfos (o que pode significar que as duas raças ferais são possivelmente nativas de Tamriel, ao contrário dos humanos ou dos mer, que migraram para lá. No entanto, algumas fontes dizem que a vida se originou em Tamriel). Topal, o Piloto, fundador do império Ayleid, descreveu uma raça primitiva, porém inteligente, de humanoides felinos habitando as florestas ao redor do Lago Rumare quando ele chegou lá com sua expedição na Era Merética. Eventualmente, os elfos e os humanos empurraram as raças ferais para os extremos sul de Tamriel, para dentro das florestas e pântanos que os humanos consideravam inabitáveis.
+Para muitos mais detalhes, veja: [[8. Mundo/(Info) Raças/Khajiit (Info)\|Khajiit (Info)]]
 
-Existem registros conflitantes sobre a relação entre as diferentes tribos antes e depois de seu acordo para formar uma raça unificada e a fundação de Elsweyr na Segunda Era (2E 309) por duas facções poderosas. Estudos mais antigos afirmam que havia uma guerra constante entre as tribos antes dessa data, e uma rebelião contra a união só terminou quando um governo alternado entre as diferentes tribos, dependendo das fases das luas, foi acordado. O _Guia de Bolso do Império, Terceira Edição: Elsweyr_ discorda dessa visão e, em vez disso, situa o período de harmonia por meio do governo alternado antes da união de 2E 309, alegando que isso estabilizou a região por mil anos. O equilíbrio só foi interrompido pela Peste Thrassiana, que dizimou a população Khajiiti e os forçou a se dividirem em duas facções opostas, que então foram unidas no ano de 2E 309. Logo depois, o Império de Cyrodiil começou a fazer aproximações diplomáticas com Elsweyr, levando à unificação de todo o continente por Tiber Septim.
+## As Formas da Lua (Ja'Kha'Jay)
 
-A influência Imperial tem sido sentida principalmente nas regiões sul de Elsweyr, onde cidades semipermanentes relativamente grandes surgiram ao longo das rotas de comércio. Sabe-se que essas cidades mudam de lugar frequentemente, mas sempre dentro de uma pequena região nas selvas próximas às bacias dos rios. A principal fonte de renda em Elsweyr é a exportação de moon sugar (açúcar lunar), que é usado para fabricar a skooma, uma droga altamente viciante. Inclusive, uma parte considerável da população Khajiiti do sul é composta por "sugar tooths" (dentes de açúcar), um termo coloquial para viciados em skooma, embora eles pareçam ser mais capazes de funcionar sob a influência da substância do que outras raças. As terras férteis perto dos rios do sul também são muito adequadas para outras plantações, particularmente a saltrice (arroz-de-sal), que constitui a maior parte do comércio legal. As regiões do norte, que ainda são em sua maioria planícies de grama seca, não progrediram muito além de suas origens tribais e raramente se consideram unificadas de qualquer forma significativa.
+A biologia Khajiit é um dos maiores mistérios de Nirn, governada puramente pelas fases das luas Masser e Secunda no momento de seu nascimento (_Ja'Kha'Jay_). Uma mesma ninhada pode gerar formas biológicas totalmente distintas: desde os comuns humanoides **Suthay-Raht** e **Cathay** (ágeis, com garras retráteis e exímios lutadores desarmados), passando por quadrúpedes gigantescos de combate (**Senche-Raht**), até os minúsculos **Alfiq**, que possuem a aparência exata de gatos domésticos, mas retêm intelecto aguçado e maestria em magia de Ilusão para atuar como espiões. O líder espiritual supremo é o **Mane**, uma forma única nascida durante um raríssimo eclipse lunar duplo.
 
-O governo dos Khajiit consiste principalmente nas Clan Mothers (Mães de Clã) de cada clã das tribos. Elas exercem o poder principalmente devido ao controle das colheitas de açúcar lunar, mas também mantêm uma posição hereditária de poder. O chefe nominal da religião Khajiiti é uma forma única de Khajiit conhecido como o Mane (Juba). A lenda Khajiit afirma que só é possível existir um Mane vivo por vez, e seu nascimento é desencadeado pelo nascimento de um recém-nascido Khajiit quando as duas luas estão totalmente alinhadas no céu. O Mane é aparentemente bípede e claramente possui a capacidade de falar, mas não se enquadra em nenhum dos subtipos Khajiiti definidos: ele é simplesmente único. Embora seja, em teoria, um líder religioso neutro e imparcial, o Mane é o verdadeiro poder em Elsweyr e foi o grande responsável pelo sucesso da tentativa de unificação da província no final da Segunda Era.
+## O Açúcar Lunar, o Skooma e as Caravanas
 
-Os Khajiit, assim como os argonianos, ainda são considerados pouco mais que homens-fera por muitas culturas humanas e mer (élficas). Eles geralmente não possuem a confiança dos Nords (Nórdicos) — principalmente —, mas também das pessoas em geral, como afirmado por Ysolda em Whiterun. Eles foram oprimidos e escravizados por famílias ricas e pelas indústrias primárias em Morrowind, até muito recentemente, quando o Rei Helseth Hlaalu finalmente proibiu a escravidão. Eles também têm uma forte aversão racial pelos argonianos (aversão esta que é recíproca), o que causa tensão nas cidades do sul de Cyrodiil, Leyawiin e Bravil, onde Elsweyr e Black Marsh são bastante próximas e possuem populações expressivas de ambas as raças.
+A sociedade de Elsweyr é dividida entre o norte desértico e o sul tropical, este último famoso pelas plantações do sagrado **Açúcar Lunar**. Para os Khajiit, os cristais são a luz das luas solidificada e servem como tempero diário ao qual possuem alta tolerância natural. Contudo, para humanos e elfos, ele funciona como um narcótico perigoso que, ao ser destilado em **Skooma**, torna-se uma das drogas mais viciantes e destrutivas de Tamriel. Devido ao preconceito gerado pelo vício alheio e por estereótipos de ladronagem, na Quarta Era os Khajiit são banidos das muralhas das cidades de Skyrim, organizando-se em **Caravanas** mercantes do lado de fora dos portões.
 
-Os Khajiit urbanizados do sul de Elsweyr são conhecidos por suas tradições mercantis e por uma aristocracia agrária estável baseada em plantações de cana-de-açúcar e saltrice. Eles também adotaram rapidamente os costumes Imperiais. Já os Khajiit tribais nômades do norte são saqueadores agressivos e territoriais que se apegam à sua tradição bárbara e guerreira. Eles são unidos periodicamente sob o comando de senhores da guerra tribais.
+## As Noites Vazias e o Pacto com o Thalmor
 
-## Religião e Mito de Criação
-
-A religião Khajiit, embora bastante diferente da dos homens e dos mer, é claramente derivada do antigo panteão Aldmeri. O mito de criação Khajiit inclui referências a poderosos gatos ancestrais com nomes surpreendentemente familiares. Suas lendas começam com os irmãos de ninhada originais, Ahnurr e Fadomai (Anu e Padomay). Esses dois deram à luz todos os grandes filhos espirituais, incluindo Alkosh, o primeiro gato (Akatosh), Khenarthi (Kynareth), Magrus (Magnus), Mara e S'rendarr (Stendarr). Uma segunda ninhada de filhos veio logo em seguida, incluindo Merrunz (Mehrunes Dagon), Mafala (Mephala) e Sangiin (Sanguine), entre outros. Ahnurr não queria mais filhos, mas Fadomai foi convencida por seus filhos mais velhos a dar à luz mais uma ninhada; este grupo final continha Azurah (Azura), Nirni (Nirn) e as luas. Diante disso, Ahnurr ficou furioso com Fadomai, que fugiu para o vazio e deu à luz um último filho, Lorkhaj (Lorkhan). Fadomai sabia que estava morrendo, pois sua vida havia sido esgotada pelo parto, mas ela deu um presente a Nirni: a promessa de que ela daria à luz seus próprios filhos.
-
-Nirni foi até Lorkhaj, pedindo-lhe que criasse um local de morada para seus filhos. Ele assim o fez, mas enganou seus irmãos, criando o plano mortal e aprisionando muitos deles ali consigo. A maior parte da primeira ninhada de Fadomai ficou presa, enquanto a sua segunda ninhada percebeu o perigo e fugiu. Nessa morada, Nirni deu à luz muitos filhos, as várias raças humanas e mer de Tamriel. No entanto, uma das filhas de Fadomai, Azurah, também havia recebido um presente de sua mãe. Ela recebeu permissão para pegar um dos filhos de Nirni e moldá-lo ao seu próprio gosto, desde que os tornasse as criaturas mais rápidas, espertas e bonitas de todas. Azurah escolheu um grupo de habitantes da floresta entre os filhos de Nirni e, a partir deles, moldou os Khajiit. Nirni ficou furiosa com isso e pediu ao seu irmão Y'ffer que punisse os Khajiit. Ele fez isso transformando suas planícies de grama em um deserto seco e suas florestas em pântanos venenosos. Os Khajiit, contudo, foram protegidos por Azurah, que lhes ensinou o segredo das luas (a Treliça Lunar, em termos Khajiiti) e como mudar suas formas para sobreviver. Aqueles habitantes da floresta que permaneceram fiéis à sua mãe, Nirni, foram transformados nos Bosmer (Elfos do Bosque) e receberam as florestas exuberantes de Valenwood como seu lar.
-
-Existe alguma especulação sobre o quão preciso esse mito de criação realmente é. O que se sabe é que os Khajiit já estavam presentes em Tamriel quando os Ayleid exploraram a região pela primeira vez, presumivelmente muito antes de existir qualquer reino Bosmer estabelecido. O que não se sabe é quanto tempo esses Khajiit estavam na área, nem quantas outras expedições de mer desembarcaram em Tamriel antes da imigração Aldmeri (evidências sugerem pelo menos uma outra imigração em massa de elfos para Tamriel, resultando nos Dwemer de Morrowind). Alguns estudiosos Imperiais acreditam que os Khajiit evoluíram naturalmente de gatos não sencientes, da mesma forma que acreditam que os argonianos evoluíram de lagartos não sencientes. Topal descreveu os Khajiit como gatos de duas e quatro patas com apenas comportamentos primitivos e sem sinais claros de inteligência. No entanto, a lenda Ayleid fala sobre negociar a posse das florestas de Cyrodiil com os Khajiit em troca dos segredos da alfabetização, e Pelinal Whitestrake, no início da Primeira Era, afirma ter lutado e matado milhares de guerreiros Khajiit claramente organizados e sencientes, acreditando que eles fossem Aldmeri.
-
-A lua é muito importante para os Khajiit, pois é ela que determina o tipo de corpo que assumem.
-## Convenção de Nomes
-
-Muitos nomes Khajiit contêm um prefixo ou sufixo (ex: Vasha). Os nomes Khajiit não contêm necessariamente um apóstrofo, mas são mais comumente escritos dessa forma. Os prefixos e sufixos comuns são mostrados abaixo:
-### Prefixos e sufixos femininos
-- **Daro:** Ladra, esperta, engenhosa.
-- **Dra:** Avó, matriarca, mulher sábia.
-- **Ko:** Maga, curandeira, ancestrais femininas ilustres.
-- **Ja:** Chefe.
-- **La:** Mulher solteira.
-- **Ka:** Mulher casada.
-
-### Prefixos e sufixos masculinos
-- **Dar:** Ladrão, esperto, engenhoso.
-- **Dro:** Avô, patriarca, homem sábio.
-- **Jo:** Mago, erudito/estudioso, ancestral masculino ilustre.
-- **Ra:** Chefe (de unidade militar ou clã).
-- **Ri:** Reis, Mane/Juba (título muito raro, sempre masculino).
-- **Da:** Homem solteiro.
-
-### Prefixos e sufixos não específicos
-- **Do:** Guerreiro, lutador respeitado.
-- **J / Ja / Ji:** Jovem adulto, solteirão/solteira.
-- **M / Ma:** Criança, aprendiz.
-- **Qa:** Significado desconhecido.
-- **S:** Adulto.
-- **Sa:** Significado desconhecido.
-- **Sha:** Significado desconhecido.
-
-## Vantagens e desvantagens raciais
-
-Muitos Khajiit desdenham de armas em favor de suas garras naturais. Eles se tornam excelentes ladrões devido à sua agilidade natural e habilidades acrobáticas inigualáveis. Muitos Khajiit também são guerreiros, embora isso seja verdade principalmente para as subespécies Cathay e Cathay-raht, enquanto as outras raças são quadrúpedes — sendo ou musculosas e extremamente resistentes, ou esguias e muito ágeis. Além de sua rapidez nativa, os Khajiit desenvolveram uma proficiência natural em furtividade (_stealth_) e contam com o benefício adicional de uma visão noturna nativa. Essas habilidades, combinadas com a tendência geral dos humanos e elfos de olhá-los de cima como "feras", levam muitos Khajiit fora de sua província natal a se tornarem bandidos ou ladrões e assassinos profissionais, como os assassinos Khajiit contratados pela Dark Brotherhood (Irmandade Sombria).
-
-Muitos Khajiit gostam de se enfeitar com piercings e, curiosamente, após _The Elder Scrolls III: Morrowind_, são a única raça, além dos argonianos, que ainda faz isso.
-
-Os Khajiit raramente são vistos no mar, preferindo comercializar através de rotas terrestres. Se necessário, eles podem pegar um barco com o propósito de transportar skooma, no entanto, a maioria tem pouco amor pelo oceano, vendo o ato de navegar como uma tarefa penosa.
+Espiritualmente, os Khajiit renegam os Oito Divinos humanos em prol de um panteão felino próprio, adorando as luas (_Jone e Jode_) e o deus do tempo _Alkosh_. Entre os anos 4E 98 e 4E 100, a província enfrentou a crise apocalíptica das **Noites Vazias**, quando as luas desapareceram do céu por dois anos, quebrando o ciclo de nascimentos e gerando pânico generalizado. Quando as luas retornaram, o **Thalmor** assumiu o crédito pelo milagre. Gratos e manipulados por essa influência messiânica, os Khajiit romperam com o Império Humano, dividiram sua confederação e tornaram-se estados vassalos leais ao Terceiro Domínio Aldmeri.
 
 
 # Luas e reprodução Khajiit
