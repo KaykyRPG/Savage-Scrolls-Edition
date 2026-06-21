@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-introducao/the-elder-scrolls-edicao-selvagem/","tags":["gardenEntry"],"dg-note-properties":{"banner":"https://cdn.discordapp.com/attachments/1516648755770818681/1517634866110402661/raquel-cornejo-wallpaper.png?ex=6a36ff1c&is=6a35ad9c&hm=84849a1c5e963960138dc8bb08ab2f3b94eeff154218b957aad75990a3d073a9","banner_style":"gradient","banner_height":"500px","banner_y":"65.9%","banner_header":"The Elder Scrolls: Edição Selvagem","banner_header_v":"edge","banner_header_h":"center","banner_header_title_size":"45px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/0-introducao/the-elder-scrolls-edicao-selvagem/","tags":["gardenEntry"],"dg-note-properties":{"banner":"https://cdnb.artstation.com/p/assets/images/images/043/226/575/large/raquel-cornejo-wallpaper.jpg?1636653076","banner_style":"gradient","banner_height":"500px","banner_y":"65.9%","banner_header":"The Elder Scrolls: Edição Selvagem","banner_header_v":"edge","banner_header_h":"center","banner_header_title_size":"45px","cssclasses":["hide-title","hide-properties"]}}
 ---
+
 
 # EM PROGRESSO!
 
