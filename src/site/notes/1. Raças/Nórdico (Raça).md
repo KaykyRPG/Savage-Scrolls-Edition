@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/nordico-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://static.wikia.nocookie.net/elderscrolls/images/f/fa/SkaalVillageDragonborn.jpg/revision/latest/scale-to-width-down/1000?cb=20121205184351","banner_style":"swoosh","banner_height":"250px","banner_y":"5.9%","banner_header":"Nórdico","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/nordico-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://static.wikia.nocookie.net/elderscrolls/images/f/fa/SkaalVillageDragonborn.jpg/revision/latest/scale-to-width-down/1000?cb=20121205184351","banner_style":"swoosh","banner_height":"250px","banner_y":"5.9%","banner_header":"Nórdico","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![right](https://images.uesp.net/c/cb/OBR-icon-race-Nord.png)
 > Os Nords, também conhecidos como Filhos da Neve (no Idioma Dragônico: Kul-Do-Od, "Filhos-Da-Neve") ou Filhos do Céu, são uma raça de Homens da província de Skyrim. Os Nords possuem uma resistência natural ao gelo, que evoluiu devido ao seu assentamento nas regiões mais ao norte e frias de Nirn, e são conhecidos por sua destreza como guerreiros. Alguns dizem que os Nords são famosamente de sangue quente para compensar o seu ambiente congelante, e seu clima político pode ser tão instável e perigoso quanto os ventos. Ansiosos por aprimorar suas habilidades marciais além dos métodos tradicionais de Skyrim, eles se destacam em todos os tipos de guerra tradicional. A cultura Nord se concentra na busca por honra e glória, com ênfase também na família e na comunidade. Os Nords se veem como eternos forasteiros e invasores e, mesmo quando conquistam e governam outro povo, não sentem nenhuma afinidade com ele. Vindos de uma cultura guerreira, eles acreditam que uma morte honrosa em batalha lhes garantirá a entrada em Sovngarde.
 
 
@@ -17,7 +18,7 @@
 - **Orgulho Nórdico (Menor)**: Quando sua honra, coragem ou reputação forem questionadas, deve aceitar o desafio ou gastar um Bennie para recusar.
 - **Escolha uma Complicação**: Veja a [[Lista de Complicações Raciais#Nórdico (Raça) Nórdico\|Tabela de Complicações]] da sua raça.
 
-> Mais vantagens ou complicações dos Nórdicos em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Nórdico (Raça) Nórdico\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Nórdico (Raça) Nórdico\|Complicações Raciais]].
+> Mais vantagens ou complicações dos Nórdicos em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Nórdico (Raça) Nórdico\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Nórdico (Raça) Nórdico\|Complicações Raciais]].
 
 
 # Informações
@@ -39,7 +40,14 @@ Na Quarta Era, a identidade nórdica orbita a adoração a **Talos** (Tiber Sept
 
 
 # Galeria
-
-
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+type: vertical
+```

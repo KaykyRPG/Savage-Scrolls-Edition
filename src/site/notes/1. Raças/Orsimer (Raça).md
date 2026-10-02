@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/orsimer-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://cdnb.artstation.com/p/assets/images/images/005/868/617/large/nuare-studio-fahrun-defender-2000x2000.jpg?1494348074","banner_style":"swoosh","banner_height":"250px","banner_y":"16.3%","banner_header":"Orsimer (Orc)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/orsimer-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://cdnb.artstation.com/p/assets/images/images/005/868/617/large/nuare-studio-fahrun-defender-2000x2000.jpg?1494348074","banner_style":"swoosh","banner_height":"250px","banner_y":"16.3%","banner_header":"Orsimer (Orc)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![left](https://images.uesp.net/b/b7/OBR-icon-race-Orc.png)
 > Os Orsimer (termo na língua Aldmeris para Orc ou Povo Pária), comumente conhecidos como Orcs, são considerados um povo bárbaro pela maioria das outras raças em Nirn e são originários das regiões montanhosas do oeste de Tamriel. Eles estão localizados centralmente em Orsinium, situada nas montanhas entre Skyrim e Hammerfell, mas são comuns em outras localidades de Tamriel.
 > 
 > Os Orsimer são de sangue élfico, mas essa herança não é reconhecida ou é esquecida por muitos em Tamriel. De acordo com algumas fontes, "Orsimer" é a "denominação racial correta", enquanto outras afirmam que seu nome significa "Orc", e outras ainda declaram que a tradução mais próxima para o seu nome é "Povo Pária". A expectativa de vida dos Orcs é semelhante à dos humanos.
@@ -18,7 +19,7 @@
 - **Forasteiro em Tamriel (Maior)**: Em muitas regiões de Tamriel, especialmente fora das fortalezas Orsimer, Orcs são vistos com desconfiança, preconceito ou temor.
 - **Respeito pela Força (Menor)**: Tende a respeitar indivíduos que demonstrem força, coragem ou competência, independentemente de posição social.
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Vantagens Raciais\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Orsimer (Raça) Orsimer (Complicações)\|Complicações Raciais]].
+> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Vantagens Raciais\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Orsimer (Raça) Orsimer (Complicações)\|Complicações Raciais]].
 
 
 # Informações
@@ -41,7 +42,17 @@ Os Orcs tradicionais vivem isolados em comunidades autônomas conhecidas como **
 A teologia Orsimer nasce da tragédia de seu herói ancestral, **Trinimac**, o maior guerreiro do panteão élfico, que foi derrotado e corrompido pela Princesa Daedrica Boethiah. De seus restos divinos ergueu-se **Malacath**, o Príncipe dos Ostracizados, que exige o endurecimento de seus filhos a partir do Ashpit. A história da raça é marcada pelo ciclo de destruição de sua pátria, **Orsinium**, arrasada múltiplas vezes por coalizões de Bretons e Redguards. Na Quarta Era, uma Nova Orsinium ergue-se entre Hammerfell e Skyrim, e muitos Orcs deixam as fortalezas para servir como a infantaria de choque mais letal da Legião Imperial.
 
 # Galeria
-
-![![1. Raças/#*Tabela3]]
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - https://static.wikia.nocookie.net/elderscrolls/images/4/40/SK_Orsimer_Race.jpg/revision/latest/scale-to-width-down/1000?cb=20111221070913
+  - https://static.wikia.nocookie.net/elderscrolls/images/8/8d/Orc2.jpg/revision/latest/scale-to-width-down/1000?cb=20111128063507
+  - https://static.wikia.nocookie.net/elderscrolls/images/a/a1/Skyrim-Orc-male-3.jpg/revision/latest/scale-to-width-down/1000?cb=20111128063806
+  - https://images.uesp.net/thumb/1/1c/BL-npc-Urzoga_gra-Batul.jpg/600px-BL-npc-Urzoga_gra-Batul.jpg
+  - https://images.uesp.net/f/f5/SR-npc-Gularzob.jpg
+  - https://images.uesp.net/a/ac/SR-npc-Gharol.jpg
+  - https://cdnb.artstation.com/p/assets/images/images/021/449/913/large/grafit-studio-unfinished-business-logos.jpg?1614326544
+  - https://cdnb.artstation.com/p/assets/images/images/005/868/617/large/nuare-studio-fahrun-defender-2000x2000.jpg?1494348074
+  - https://cdna.artstation.com/p/assets/images/images/006/199/704/large/nuare-studio-garnag-dark-adherent-2000x2000.jpg?1496758432
+  - https://images.uesp.net/5/53/LG-cardart-Luzrah_gro-Shar.png
+type: vertical
+```

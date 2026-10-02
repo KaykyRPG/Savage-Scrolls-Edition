@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/khajiit-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/khajiit-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # KHAJIIT

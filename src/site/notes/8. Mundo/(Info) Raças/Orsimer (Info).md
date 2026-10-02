@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/orsimer-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/orsimer-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # ORSIMER (*ORCS*)

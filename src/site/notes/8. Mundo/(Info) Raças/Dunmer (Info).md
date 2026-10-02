@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/dunmer-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/dunmer-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # DUNMER (*ELFOS NEGROS*)

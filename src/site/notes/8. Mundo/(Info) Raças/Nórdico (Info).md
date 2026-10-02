@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/nordico-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/nordico-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # NÓRDICOS

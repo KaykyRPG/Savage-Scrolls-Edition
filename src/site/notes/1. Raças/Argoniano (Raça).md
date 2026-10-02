@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/argoniano-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/b/b3/ON-crown_store-Kick_Ball.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"27.1%","banner_header":"Argoniano","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/argoniano-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/b/b3/ON-crown_store-Kick_Ball.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"27.1%","banner_header":"Argoniano","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![right](https://images.uesp.net/f/f5/OBR-icon-race-Argonian.png)
 > Os Argonianos, ou Saxhleel, são uma raça ovípara de pessoas reptilianas nativas da grande e pantanosa província de Tamriel conhecida como Black Marsh (Pântano Negro). Eles podem ser encontrados em números menores por todo o continente. Os Argonianos são uma das poucas raças completamente sem relação com os homens e os mer, e veem a si mesmos como vindos de, e essencialmente retornando para, os Hist.
 
 
@@ -17,7 +18,7 @@
 - **Costumes Estrangeiros (Menor)**: Recebe -1 em Persuasão ao lidar com não-Argonianos em situações sociais complexas.
 - **Forasteiro em Tamriel (Menor)**: Em muitas regiões de Tamriel, especialmente Skyrim e partes de Morrowind, Argonianos são vistos com desconfiança e frequentemente sofrem discriminação.
 
-> Mais vantagens e complicações dos Argonianos em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Argoniano (Raça) Argoniano (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Argoniano (Raça) Argoniano (Complicações)\|Complicações Raciais]].
+> Mais vantagens e complicações dos Argonianos em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Argoniano (Raça) Argoniano (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Argoniano (Raça) Argoniano (Complicações)\|Complicações Raciais]].
 
 
 # Informações
@@ -41,6 +42,20 @@ Apesar de parecerem pacíficos, os Argonianos são guerreiros temíveis. Aqueles
 
 
 # Galeria
-![![1. Raças/#*Tabela]]
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]] 
+```img-gallery
+urls:
+  - https://static.wikia.nocookie.net/elderscrolls/images/e/e6/ArgonianCompilation.jpg/revision/latest?cb=20120821101203
+  - https://static.wikia.nocookie.net/elderscrolls/images/7/7d/Argonians_%28Online%29.jpg/revision/latest?cb=20140120120913
+  - https://images.uesp.net/b/b3/ON-crown_store-Kick_Ball.jpg
+  - https://images.uesp.net/4/4a/ON-prerelease-Bright-Throat_Uxith.jpg
+  - https://static.wikia.nocookie.net/elderscrolls/images/a/af/ArgonianFemalewlegal.jpg/revision/latest/scale-to-width-down/1000?cb=20111118143747
+  - https://static.wikia.nocookie.net/elderscrolls/images/b/b1/Female_Lizard.jpg/revision/latest/scale-to-width-down/1000?cb=20110817154729
+  - https://images.uesp.net/e/ec/LG-cardart-Tree_Minder_Alt.png
+  - https://images.uesp.net/5/5b/ON-creature-Senche-Lizard_Steed.jpg
+  - https://i.pinimg.com/1200x/27/a3/68/27a368cda4d9425b967863cadd7b523f.jpg
+  - https://images.uesp.net/8/8d/ON-concept-Berserker.jpg
+  - https://images.uesp.net/a/a6/ON-creature-Xal-Nur_the_Slaver.jpg
+  - https://images.uesp.net/2/2a/ON-npc-Guhcin.jpg
+  - https://images.uesp.net/1/19/ON-npc-Beel-Ranu.jpg
+type: vertical
+```

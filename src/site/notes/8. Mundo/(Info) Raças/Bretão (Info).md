@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/bretao-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/bretao-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # BRETÕES

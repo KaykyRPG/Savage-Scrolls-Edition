@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/altmer-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/altmer-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # ALTMER (*ELFOS ALTOS*)

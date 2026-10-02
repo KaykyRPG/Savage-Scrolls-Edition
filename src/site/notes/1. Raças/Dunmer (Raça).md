@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/dunmer-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://cdna.artstation.com/p/assets/images/images/017/291/906/large/nuare-studio-dunmer-tyro.jpg?1555391461","banner_style":"swoosh","banner_height":"250px","banner_y":"18.3%","banner_header":"Dunmer (Elfo Negro)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/dunmer-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://cdna.artstation.com/p/assets/images/images/017/291/906/large/nuare-studio-dunmer-tyro.jpg?1555391461","banner_style":"swoosh","banner_height":"250px","banner_y":"18.3%","banner_header":"Dunmer (Elfo Negro)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![left](https://images.uesp.net/c/c9/OBR-icon-race-Dark_Elf.png)
 > Os Dunmer, mais comumente referidos como Elfos Negros no resto de Tamriel, são elfos de pele cinzenta originários da província de Morrowind. Conhecidos por serem fortes, inteligentes, ágeis, altivos e reservados, mas considerados por alguns como desafortunados. Os Dunmer tendem a ser isolados, já que a maioria dos Dunmer nativos de Morrowind nutre uma profunda desconfiança e desdém pelas outras raças, considerando-se superiores.
 
 
@@ -17,7 +18,7 @@
 - **Forasteiro em Tamriel (Menor)**: Em algumas regiões de Tamriel, especialmente Skyrim e Black Marsh, Dunmer são vistos com desconfiança ou preconceito devido à sua história, religião e cultura distintas.
 - **Escolha uma Complicação**: Veja a [[Lista de Complicações Raciais#Dunmer (Raça) Dunmer (Elfo Negro)\|Tabela de Complicações]] da sua raça.
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Dunmer (Raça) Dunmer (Elfo Negro)\|Complicações Raciais]].
+> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Dunmer (Raça) Dunmer (Elfo Negro)\|Complicações Raciais]].
 
 
 # Informações
@@ -41,6 +42,16 @@ Espiritualmente, os Dunmer abandonaram a adoração aos antigos "Deuses Vivos" d
 
 
 # Galeria
-![![1. Raças/#*Tabela21]]
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - https://static.wikia.nocookie.net/elderscrolls/images/8/81/SepLnUp_Dunmer_b4%26d4.png/revision/latest?cb=20120124104217
+  - https://images.uesp.net/a/ad/SR-npc-Brand-Shei.jpg
+  - https://images.uesp.net/4/47/SR-npc-Aphia_Velothi.jpg
+  - https://images.uesp.net/6/6d/ON-npc-Seron_Denelu.jpg
+  - https://images.uesp.net/4/42/ON-npc-Naryu_Virian_05.jpg
+  - https://cdnb.artstation.com/p/assets/images/images/023/838/187/large/volmi-games-undercover-mythic-dawn-agent.jpg?1580489105
+  - https://cdnb.artstation.com/p/assets/images/images/006/809/395/medium/yw-tang-dark-elf-retainer-new-s.jpg?1501432191
+  - https://cdna.artstation.com/p/assets/images/images/012/960/070/large/nuare-studio-false-incarnate.jpg?1537375794
+  - https://cdna.artstation.com/p/assets/images/images/011/230/602/large/nuare-studio-lich-s-ascension-1.jpg?1528475238
+type: vertical
+```

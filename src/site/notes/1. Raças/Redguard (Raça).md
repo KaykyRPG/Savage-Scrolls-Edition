@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/redguard-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/1/1d/ON-concept-Daggerfall_Covenant-4500x2040.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"6.3%","banner_header":"Redguard","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/redguard-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/1/1d/ON-concept-Daggerfall_Covenant-4500x2040.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"6.3%","banner_header":"Redguard","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![right](https://images.uesp.net/e/e4/OBR-icon-race-Redguard.png)
 > Os Redguards são uma raça de homens originária do continente perdido de Yokuda e que agora reside principalmente na província de Hammerfell. Embora oficialmente sejam Yokudanos, eles adquiriram seu nome atual através da corrupção do termo nativo Yokudano "Ra Gada", que (em uma tradução livre) significa "onda de guerreiros". Devido à sua conquista rápida e decisiva de Hammerfell, os Redguards são renomados como os guerreiros mais naturalmente dotados de Tamriel. Sua ferocidade e versatilidade também se manifestam em sua personalidade, o que explica por que eles são mais eficazes como batedores e em pequenas unidades, em oposição a serem implantados como soldados de linha comum. Eles são ferreiros mestres e são capazes de fabricar armaduras a partir de porcelana encantada.
 
 
@@ -11,13 +12,13 @@
 > "Os guerreiros mais naturalmente talentosos de Tamriel, os Redguards de Hammerfell possuem uma constituição robusta e uma resistência natural a veneno. Eles podem invocar uma Corrida de Adrenalina (_Adrenaline Rush_) em combate."
 
 ### Vantagens: 
-- **Corrida de Adrenalina:** O Vigor (_Stamina_) regenera 10 vezes mais rápido por 60 segundos.
-- **Resistência a Veneno:** Seu sangue Redguard lhe concede 50% de resistência a veneno.
+- **Corrida de Adrenalina:** Uma vez por descanso longo, como ação livre, o Redguard desperta sua determinação ancestral por 5 rodadas. Durante esse período, ignora 1 nível de Fadiga e pode rerrolar testes de Atletismo e Vigor.
+- **Resistência a Veneno:** Seu sangue Redguard lhe concede +2 em testes para resistir a venenos.
 ### Complicações:
 - **Espírito Yokudano (Menor)**: Valoriza disciplina, treinamento e aperfeiçoamento constante. Confia em habilidade pessoal antes de depender de sorte, magia ou soluções fáceis.
 - **Orgulho de Hammerfell (Menor)**: Quando a história, cultura ou independência de Hammerfell forem insultadas, tende a responder ou defendê-las.
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Redguard (Raça) Redguard (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Redguard (Raça) Redguard (Complicações)\|Complicações Raciais]].
+> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Redguard (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Redguard (Raça) Redguard (Complicações)\|Complicações Raciais]].
 
 
 # Informações
@@ -40,6 +41,14 @@ A história da raça começou em Tamriel quando Yokuda afundou na Primeira Era, 
 
 
 # Galeria
-
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+type: vertical
+```

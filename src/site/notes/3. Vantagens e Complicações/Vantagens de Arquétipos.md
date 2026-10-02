@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-vantagens-e-complicacoes/vantagens-de-arquetipos/","tags":["vantagem"],"dg-note-properties":{"tags":["vantagem"],"sticker":"rpg-awesome//monster-skull"}}
+{"dg-publish":true,"permalink":"/3-vantagens-e-complicacoes/vantagens-de-arquetipos/","tags":["vantagem"],"noteIcon":"","dg-note-properties":{"tags":["vantagem"],"icon":"10. Infraestrutura/Stickers/Game-icons/closed-barbute.svg"}}
 ---
 
 # Classe por Arquétipos

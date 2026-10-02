@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-introducao/the-elder-scrolls-edicao-selvagem/","tags":["gardenEntry"],"dg-note-properties":{"banner":"https://cdnb.artstation.com/p/assets/images/images/043/226/575/large/raquel-cornejo-wallpaper.jpg?1636653076","banner_style":"gradient","banner_height":"500px","banner_y":"65.9%","banner_header":"The Elder Scrolls: Edição Selvagem","banner_header_v":"edge","banner_header_h":"center","banner_header_title_size":"45px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/0-introducao/the-elder-scrolls-edicao-selvagem/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"banner":"https://cdnb.artstation.com/p/assets/images/images/043/226/575/large/raquel-cornejo-wallpaper.jpg?1636653076","banner_style":"gradient","banner_height":"480px","banner_y":"67.0%","banner_header":"The Elder Scrolls: Edição Selvagem","banner_header_v":"edge","banner_header_h":"center","banner_header_title_size":"45px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
 
@@ -50,7 +50,7 @@ A adaptação deve preservar **a fantasia e identidade única de Tamriel**, mas 
 
 ### Regras do The Elder Scrolls: Edição Selvagem
 
-No Savage existem algumas poucas coisas que não estaremos utilizando no *The Elder Scrolls: Edição Selvagem* — como algumas *vantagens, complicações, perícias, poderes e dentre outros* — para conversar melhor com o cenário de Tamriel e focar na proposta de fantasia da obra. Veja as regras do SWADE adaptadas em [[Guia — Homebrew\|Guia — Homebrew]].
+No Savage existem algumas poucas coisas que não estaremos utilizando no *The Elder Scrolls: Edição Selvagem* — como algumas *vantagens, complicações, perícias, poderes e dentre outros* — para conversar melhor com o cenário de Tamriel e focar na proposta de fantasia da obra. Veja as regras do SWADE adaptadas em [[7. Regras Gerais/Guias/Guia — Homebrew\|Guia — Homebrew]].
 
 ---
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/khajiit-raca/","tags":["raça"],"dg-note-properties":{"tags":"raça","banner":"https://cdn.discordapp.com/attachments/1516648755770818681/1516648841368309821/image.png?ex=6a36b48d&is=6a35630d&hm=8b56f41850c4b1c6a4dd26e6ee4ae25882d0166dff50c683cf1a360d0ff3536d","banner_style":"swoosh","banner_height":"250px","banner_y":"10.0%","banner_header":"Khajiit","banner_header_v":"center","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"80px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/khajiit-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":"raça","banner":"https://i.imgur.com/TAT54Xr.png","banner_style":"swoosh","banner_height":"250px","banner_y":"10.0%","banner_header":"Khajiit","banner_header_v":"center","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"80px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+
+![left](https://images.uesp.net/4/46/OBR-icon-race-Khajiit.png)
 >Os Khajiit são uma das dez raças jogáveis padrão em _The Elder Scrolls_. Eles são uma das raças ferais que habitam o continente de Tamriel, principalmente sua província natal de Elsweyr. Eles são conhecidos por sua agilidade natural, furtividade (_stealth_) e por sua produção de açúcar lunar (_moon sugar_), que pode ser refinado em skooma. Os Khajiit diferem dos humanos e elfos não apenas em sua forma esquelética e nos pelos que cobrem seus corpos, mas também em seu metabolismo e digestão. A expectativa de vida dos Khajiit é semelhante à dos humanos. Eles viajam por aí vendendo suas mercadorias, mas geralmente não possuem a confiança dos outros, devido ao preconceito racial de muitas das raças de Tamriel, resultando possivelmente da crença de que a maioria dos Khajiit são ladrões. Eles costumam falar sobre si mesmos na terceira pessoa, como ocorre com J'zargo e Akkhuz-ri.
 
 # Criação de Personagem
@@ -11,12 +13,13 @@
 
 ### Vantagens: 
 - **Visão Noturna**: Ver no escuro durante 60 segundos, um número ilimitado de vezes por dia.
-- **Garras**: Khajiit possuem garras que causam For+d4 de Dano, sendo considerado [[7. Regras Gerais/SWADE - REGRAS/3. Regras/Armas Naturais\|Armas Naturais]].
+- **Garras**: Khajiit possuem garras que causam For+d4 de Dano, sendo considerado [[10. Infraestrutura/SWADE - REGRAS/3. Regras/Armas Naturais\|Armas Naturais]].
+
 ### Complicações:
 - **Filhos das Luas (Menor)**: Quando confrontado com presságios, tradições lunares ou crenças culturais khajiitas, deve agir de acordo com elas ou gastar um Bennie para resistir.
 - **Forasteiro em Tamriel (Menor)**: Em muitas regiões de Tamriel, especialmente Skyrim, Khajiit são vistos com desconfiança e frequentemente sofrem discriminação.
 
-> Mais vantagens ou complicações dos Khajiit em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Khajiit\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Khajiit (Raça) Khajiit\|Complicações Raciais]].
+> Mais vantagens ou complicações dos Khajiit em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Khajiit\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Khajiit (Raça) Khajiit\|Complicações Raciais]].
 
 
 # Informações
@@ -89,6 +92,16 @@ Ao todo, existem dezessete raças conhecidas de Khajiit, embora supostamente exi
 
 
 # Galeria
-![![1. Raças/#*Tabela11]]
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - https://static.wikia.nocookie.net/elderscrolls/images/7/7b/KhajiitCompilation-938x1024.jpg/revision/latest?cb=20110824172817
+  - https://static.wikia.nocookie.net/elderscrolls/images/2/26/Emchy_an_kharjo.png/revision/latest?cb=20120705183916
+  - https://static.wikia.nocookie.net/elderscrolls/images/5/59/Whispering_Claw_Strike_card_art.png/revision/latest/scale-to-width-down/1000?cb=20190731140120
+  - https://cdna.artstation.com/p/assets/images/images/013/382/066/large/alex-cristi-khajiit-renrijra-khrin-tweak.jpg?1539331019
+  - https://static.wikia.nocookie.net/elderscrolls/images/6/6a/Senche-raht.png/revision/latest?cb=20201211160441
+  - https://images.uesp.net/f/f8/LG-cardart-War-Hardened_Senche.jpg
+  - https://images.uesp.net/5/54/ON-misc-Male_Khajiit_Outfits.jpg
+  - https://images.uesp.net/6/64/ON-misc-Female_Khajiit_Outfits.jpg
+  - https://images.uesp.net/c/c8/LG-cardart-Pahmar-raht_Renegade.png
+type: vertical
+```

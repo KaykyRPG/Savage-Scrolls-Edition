@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/bosmer-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/f/f5/ON-crown_store-Doeskin-and-Chamois_Woods_Wear.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"22.3%","banner_header":"Bosmer (Elfo da Floresta)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/bosmer-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/f/f5/ON-crown_store-Doeskin-and-Chamois_Woods_Wear.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"22.3%","banner_header":"Bosmer (Elfo da Floresta)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![left](https://images.uesp.net/a/a3/OBR-icon-race-Wood_Elf.png)
 > Os Bosmer (Aldmeris, "mer verde/da floresta/da seiva da árvore"), ou Elfos da Floresta, são originários da província de Valenwood (parte sudoeste de Tamriel). Rejeitando as formalidades do mundo civilizado, os Bosmer descartaram o estilo de vida luxuoso por uma vida no deserto, entre a natureza, as árvores e os animais. De fato, suas principais cidades estão localizadas em árvores caminhantes gigantes que vagam pela província florestal de Valenwood. Eles decoram seus corpos para se assemelharem aos arredores da floresta. Por causa disso, muitos os veem como bárbaros. Apesar de sua infâmia, eles são conhecidos por serem extremamente ágeis e rápidos. Sua destreza lhes serve perfeitamente em qualquer arte que envolva ladronagem. Muitos são arqueiros altamente respeitados, devido ao seu domínio inerente do arco.
 
 
@@ -15,9 +16,9 @@
 - **Resistência a Doenças e Venenos:** Recebe +2 em testes para resistir a doenças e venenos.
 ### Complicações:
 - **Filhos do Pacto Verde (Menor)**: Quando confrontado com escolhas que violem os ensinamentos do Green Pact ou desrespeitem a natureza sagrada de Y'ffre, deve realizar um teste de Espírito ou agir de acordo com suas tradições.
-- **Escolha uma Complicação**: Veja a [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Bosmer (Raça) Bosmer (Complicações)\|Tabela de Complicações]] da sua raça.
+- **Escolha uma Complicação**: Veja a [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Bosmer (Raça) Bosmer (Complicações)\|Tabela de Complicações]] da sua raça.
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Complicações Raciais\|Complicações Raciais]].
+> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Complicações Raciais\|Complicações Raciais]].
 
 
 # Informações
@@ -41,6 +42,14 @@ Embora prefiram a liberdade de sua vida tribal descentralizada, os Bosmer guarda
 
 
 # Galeria
-
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+type: vertical
+```

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/altmer-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/1/1b/LG-cardart-Thalmor_Justiciar_02.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"15.9%","banner_header":"Altmer (Alto Elfo)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/altmer-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/1/1b/LG-cardart-Thalmor_Justiciar_02.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"15.9%","banner_header":"Altmer (Alto Elfo)","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![left](https://images.uesp.net/d/de/OBR-icon-race-High_Elf.png)
 > Os Altmer são os elfos de pele clara e altos das Ilhas Summerset (_Summerset Isles_). No Império, o nome "Altos Elfos" é dado aos Altmer, com a palavra "Altos" sendo usada para descrever os Altmer como altos, orgulhosos e culturalmente esnobes. Os Altmer se consideram a raça perfeita.
 
 
@@ -13,10 +14,12 @@
 ### Vantagens: 
 - **Nobreza:** Uma vez por descanso longo, como ação livre, o Altmer concentra sua energia mágica por 5 rodadas. Durante esse período, recupera 1 Ponto de Poder adicional sempre que recuperar Pontos de Poder por qualquer efeito.
 - **Fortificar Magia:** Recebe +5 Pontos de Poder permanentes. Se o jogador for um vampiro e a vantagem Necromante for adquirida na lista de vantagens de Restauração, esse valor passa a ser 7 pontos.
-### Complicações:
-- Superioridade Altmer (Menor): 
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Complicações Raciais\|Complicações Raciais]].
+### Complicações:
+- **Superioridade Altmer (Menor)**: Tende a considerar sua cultura, tradições e educação superiores às da maioria dos outros povos.
+- **Formalismo Altmer (Menor)**: Valoriza etiqueta, protocolo e tradição. Quando confrontado entre um método refinado e um método grosseiro, tende a favorecer o primeiro.
+
+> Mais vantagens ou complicações em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Altmer (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Altmer (Complicações)\|Complicações Raciais]].
 
 
 # Informações
@@ -40,6 +43,14 @@ A teologia Altmer vê o plano mortal como uma armadilha cruel que os separou da 
 
 
 # Galeria
-
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+type: vertical
+```

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/bretao-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/9/99/ON-render-ESO_Tavern_Event_Announcement.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"17.5%","banner_header":"Bretão","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/bretao-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/9/99/ON-render-ESO_Tavern_Event_Announcement.jpg","banner_style":"swoosh","banner_height":"250px","banner_y":"17.5%","banner_header":"Bretão","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![right](https://images.uesp.net/1/15/OBR-icon-race-Breton.png)
 > Os Bretons (do idioma Ehlnofex _beratu_, ou "metade") são os descendentes humanos que se originam da província de High Rock (Rocha Alta). De acordo com o Terceiro Guia de Bolso do Império, eles são descendentes dos Nede (_Nedic_) e dos Aldmeri, enquanto outras fontes afirmam que eles são uma mistura de sangue Atmorano e Aldmeri. Por conta disso, os Bretons são às vezes chamados de "Manmeri".
 
 
@@ -17,7 +18,7 @@
 - **Herança Bretã (Menor)**: Tende a confiar em conhecimento, astúcia ou diplomacia antes de recorrer à força bruta.
 - **Rivalidades de High Rock (Menor)**: Possui antigas rivalidades, preconceitos ou desconfianças herdadas de outras casas, famílias ou reinos.
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Complicações Raciais\|Complicações Raciais]].
+> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Vantagens Raciais\|Vantagens Raciais]] ou [[Lista de Complicações Raciais#Complicações Raciais\|Complicações Raciais]].
 
 
 # Informações
@@ -40,6 +41,14 @@ A sociedade de High Rock é uma colcha de retalhos fragmentada de castelos, rein
 Na fronteira entre High Rock e Skyrim habita uma subcultura bárbara e violenta de Bretões: os **Reachmen** (_Homens do Reach_). Rejeitando o feudalismo e os deuses tradicionais, eles vivem em clãs tribais e adoram os Príncipes Daedricos em rituais comandados por bruxas (_Hagravens_). Na Quarta Era, agindo sob o nome de **Forsworn** (_Os Renegados_), eles travam uma guerra de guerrilha brutal usando os temidos guerreiros **Briarheart**: campeões que tiveram seus corações arrancados e substituídos por sementes mágicas, transformando-se em mortos-vivos implacáveis que não sentem dor.
 
 # Galeria
-
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+type: vertical
+```

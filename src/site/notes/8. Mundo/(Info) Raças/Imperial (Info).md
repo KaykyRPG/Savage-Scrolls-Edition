@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/imperial-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/imperial-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # IMPERIAIS

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/argoniano-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/argoniano-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # ARGONIANOS (SAXHLEEL)

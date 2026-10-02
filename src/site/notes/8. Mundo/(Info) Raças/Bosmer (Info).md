@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/bosmer-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/bosmer-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # BOSMER (*ELFOS DO BOSQUE*)

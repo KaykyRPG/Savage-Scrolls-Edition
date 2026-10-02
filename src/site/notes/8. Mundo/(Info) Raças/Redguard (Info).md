@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-mundo/info-racas/redguard-info/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/8-mundo/info-racas/redguard-info/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # REDGUARDS (*IOKUDANOS*)

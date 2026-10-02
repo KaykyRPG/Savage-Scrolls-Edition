@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-racas/imperial-raca/","tags":["raça"],"dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/b/b3/LG-cardart-Empire_Oathman.png","banner_style":"swoosh","banner_height":"250px","banner_y":"20.3%","banner_header":"Imperial","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
+{"dg-publish":true,"permalink":"/1-racas/imperial-raca/","tags":["raça"],"noteIcon":"","dg-note-properties":{"tags":["raça"],"banner":"https://images.uesp.net/b/b3/LG-cardart-Empire_Oathman.png","banner_style":"swoosh","banner_height":"250px","banner_y":"20.3%","banner_header":"Imperial","banner_header_v":"edge","banner_header_h":"center","banner_header_decor":"shadow","banner_header_title_size":"35px","cssclasses":["hide-title","hide-properties"]}}
 ---
 
+![right](https://images.uesp.net/c/ca/OBR-icon-race-Imperial.png)
 > Os Imperiais, também conhecidos como Cirodílicos (_Cyrodilics_) ou Cirodiis (_Cyrodiils_), são uma raça de homens de Cyrodiil, a província no centro de Tamriel. Os membros da raça Imperial estão entre as pessoas mais bem-educadas, ricas e de boa lábia em Tamriel. Nativos da civilizada e cosmopolita província de Cyrodiil, eles provaram ser diplomatas astutos, comerciantes e táticos habilidosos.
 
 
@@ -15,9 +16,9 @@
 - **Sorte Imperial:** Em qualquer lugar onde moedas de ouro possam ser encontradas, os Imperiais sempre parecem encontrar um pouco mais.
 ### Complicações:
 - **Mentalidade Imperial (Menor)**: Tende a buscar acordos, compromissos ou soluções pragmáticas antes de recorrer à força.
-- **Escolha uma Complicação**: Veja a [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Imperial (Raça) Imperial (Complicações)\|Tabela de Complicações]] da sua raça.
+- **Escolha uma Complicação**: Veja a [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Imperial (Raça) Imperial (Complicações)\|Tabela de Complicações]] da sua raça.
 
-> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Imperial (Raça) Imperial (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações Raciais#Imperial (Raça) Imperial (Complicações)\|Complicações Raciais]].
+> Mais vantagens ou complicações dos (...) em: [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Imperial (Raça) Imperial (Vantagens)\|Vantagens Raciais]] ou [[3. Vantagens e Complicações/Vantagens e Complicações (Raciais)#Imperial (Raça) Imperial (Complicações)\|Complicações Raciais]].
 
 
 # Informações
@@ -41,6 +42,14 @@ A teologia imperial é a base religiosa ortodoxa de Tamriel, criada na Primeira 
 
 
 # Galeria
-
-
-Regras SWADE: [[7. Regras Gerais/SWADE - REGRAS/1. Personagens/Criando Ancestralidades\|Criando Ancestralidades]]
+```img-gallery
+urls:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+type: vertical
+```
