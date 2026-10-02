@@ -113,8 +113,8 @@ function getPermalinkMeta(note, key) {
     }
     // Reason for adding the hide flag instead of removing completely from file tree is to
     // allow users to use the filetree data elsewhere without the fear of losing any data.
-    if (note.data.hide) {
-      hide = note.data.hide;
+    if (note.data.hide || note.data.hideInFiletree) {
+      hide = true;
     }
     if (note.data.pinned) {
       pinned = note.data.pinned;
@@ -157,7 +157,31 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
+// getFileTree is called from eleventyComputed, i.e. once per rendered page,
+// but its result only depends on the note collection and navigation order.
+// Cache per collection array (fresh each build, so the cache self-invalidates
+// across watch-mode rebuilds); navigationOrder is the inner key since it can
+// in principle differ per data cascade entry.
+const fileTreeCache = new WeakMap();
+
 function getFileTree(data) {
+  const notes = data.collections.note;
+  if (!notes) {
+    return computeFileTree(data);
+  }
+  let byOrder = fileTreeCache.get(notes);
+  if (!byOrder) {
+    byOrder = new Map();
+    fileTreeCache.set(notes, byOrder);
+  }
+  const orderKey = data.navigationOrder || null;
+  if (!byOrder.has(orderKey)) {
+    byOrder.set(orderKey, computeFileTree(data));
+  }
+  return byOrder.get(orderKey);
+}
+
+function computeFileTree(data) {
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
