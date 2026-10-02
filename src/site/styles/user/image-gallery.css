@@ -1,0 +1,94 @@
+/* ==========================================================================
+   Digital Garden — Image Gallery
+   ========================================================================== */
+
+/* ── Container ──────────────────────────────────────────────────────────── */
+.dg-image-gallery {
+  margin: 1.5em 0;
+}
+
+.dg-gallery-horizontal,
+.dg-gallery-vertical {
+  columns: var(--dg-cols, 3);
+  column-gap: var(--dg-gap, 8px);
+}
+
+/* ── Items ──────────────────────────────────────────────────────────────── */
+.dg-gallery-item {
+  display: block;
+  break-inside: avoid;       
+  margin-bottom: var(--dg-gap, 8px);
+  overflow: hidden;
+  border-radius: var(--dg-r, 0px);
+  cursor: pointer;
+  background: transparent;   
+}
+
+/* ── Imagens ─────────────────────────────────────────────────────────────── */
+.dg-gallery-item img {
+  width: 100%;
+  height: auto;              
+  display: block;
+  border-radius: var(--dg-r, 0px);
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.dg-gallery-item:hover img {
+  transform: scale(1.03);
+  opacity: 0.85;
+}
+
+/* ── Error / sem imagens ─────────────────────────────────────────────────── */
+.dg-gallery-error {
+  padding: 0.75em 1em;
+  border: 1px solid var(--color-red, #e74c3c);
+  border-radius: 4px;
+  color: var(--color-red, #e74c3c);
+  font-size: 0.9em;
+  margin: 1em 0;
+}
+
+/* ── Mobile ─────────────────────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .dg-gallery-horizontal,
+  .dg-gallery-vertical {
+    columns: var(--dg-cols-mobile, 1);
+  }
+}
+
+/* ==========================================================================
+   Lightgallery overrides
+   ========================================================================== */
+
+.lg-container {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+.lg-container button { box-shadow: none !important; }
+
+.lg-backdrop { background-color: rgba(0,0,0,0.92) !important; }
+
+.lg-next, .lg-prev {
+  border-radius: 2px; opacity: 0.6 !important; border: none; outline: none;
+}
+.lg-next:hover:not(.disabled),
+.lg-prev:hover:not(.disabled) { opacity: 1 !important; }
+
+.lg-next {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 16 16'%3E%3Cpath fill='%23FFFFFF' d='M9.707 13.707l5-5c0.391-0.39 0.391-1.024 0-1.414l-5-5c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414l3.293 3.293h-9.586c-0.552 0-1 0.448-1 1s0.448 1 1 1h9.586l-3.293 3.293c-0.195 0.195-0.293 0.451-0.293 0.707s0.098 0.512 0.293 0.707c0.391 0.391 1.024 0.391 1.414 0z'%3E%3C/path%3E%3C/svg%3E");
+  background-position: center; background-repeat: no-repeat;
+}
+.lg-prev {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 16 16'%3E%3Cpath fill='%23FFFFFF' d='M6.293 13.707l-5-5c-0.391-0.39-0.391-1.024 0-1.414l5-5c0.391-0.391 1.024-0.391 1.414 0s0.391 1.024 0 1.414l-3.293 3.293h9.586c0.552 0 1 0.448 1 1s-0.448 1-1 1h-9.586l3.293 3.293c0.195 0.195 0.293 0.451 0.293 0.707s-0.098 0.512-0.293 0.707c-0.391 0.391-1.024 0.391-1.414 0z'%3E%3C/path%3E%3C/svg%3E");
+  background-position: center; background-repeat: no-repeat;
+}
+.lg-close {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24' fill='none' stroke='%23FFFFFF' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cline x1='18' y1='6' x2='6' y2='18'%3E%3C/line%3E%3Cline x1='6' y1='6' x2='18' y2='18'%3E%3C/line%3E%3C/svg%3E");
+  background-position: center; background-repeat: no-repeat; opacity: 0.6;
+}
+.lg-close:hover { opacity: 1; }
+
+.lg-outer .lg-thumb-outer { background-color: rgba(0,0,0,0.95); }
+.lg-outer .lg-thumb-item { border-radius: 3px; border: 2px solid transparent; }
+.lg-outer .lg-thumb-item.active,
+.lg-outer .lg-thumb-item:hover { outline: 2px solid rgba(255,255,255,0.9); border-color: transparent; }
+.lg-outer .lg-thumb-item img { object-fit: cover; }
