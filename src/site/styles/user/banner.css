@@ -1,3 +1,10 @@
+/* O overlay (título/ícone) é irmão da .dg-banner, então o wrapper precisa
+   ser a referência de posição. Sem isso, o overlay se estica pela nota
+   inteira e bloqueia cliques (ex.: galeria de imagens). */
+.dg-banner-wrapper {
+    position: relative;
+}
+
 .dg-banner {
     position: relative;
     width: 100%;
@@ -27,6 +34,7 @@
     padding: 16px 24px;
 
     color: white;
+    pointer-events: none; /* o overlay é só visual, deixa o clique passar */
 }
 
 /* Horizontal */
